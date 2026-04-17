@@ -9,8 +9,8 @@ interface Ranking {
 }
 
 interface Estadistica {
-  position: number
-  name: string
+  position: number 
+  name:  string
   value: number
   appearances: number
   contestantName: string
